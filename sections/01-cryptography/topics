@@ -1,0 +1,71 @@
+Lab Capable
+- asymmetric
+- symmetric
+- hashing
+- Encoding
+- Steganography
+
+Lecture Based
+- Encoding vs Cryptography
+    - XOR
+- AES 
+- RSA
+- ECC
+- DES
+- GPG/PGP
+- Permutations & Combinations
+- Ciphers
+    - Caeser/ROT13
+    - Vigenere
+    - Homophonic
+    - Substitution
+        - Monoalphabetic 
+        - Homophonic
+        - Polygram
+        - Polyalphabetic
+    - Transposition
+    - Wheel
+    - Stream
+    - Hill
+    - Playfair
+- Steganography
+- asymmetric
+- symmetric
+- keys
+    - public keys
+    - private keys
+- hashing
+    - MD5
+    - MD4
+    - SHA-0
+    - SHA-1
+    - SHA-2
+    - SHA-3
+    - SHA-128
+    - SHA-256
+    - SHA-512
+- Frequency Analysis
+- Message Authentication Code (MAC)
+- 2FA
+- Data 
+    - confidentiality
+    - integrity
+    - authentication
+    - non-repudiation
+- Certificates
+    - X.509 
+- Applications
+    - SSL
+    - VPN
+    - File integrity
+    - File Encryption
+
+
+Useful Links
+- https://gchq.github.io/CyberChef/
+- http://practicalcryptography.com/ciphers/
+- http://rumkin.com/tools/cipher/
+- https://www.boxentriq.com/code-breaking/cipher-identifier
+- https://www.educba.com/types-of-cipher/
+- https://www.tutorialspoint.com/cryptography/traditional_ciphers.htm
+- https://www.dcode.fr/en
