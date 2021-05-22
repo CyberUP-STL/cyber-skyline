@@ -19,7 +19,7 @@
 	- Currently there is no actual structur to how the chapters will be presented. 
 	- Any input is welcome, but it needs to be logical and repeatable in each of the other chapters/sections.
 
-## Help to Maintain the content in the GitHub Repo
+## Help to become a Maintainer in the GitHub Repo
 	- Need to be able to QA any Pull Requests
 	- Need to have a familiarity with GitHub & Git
 	- Need to be able to review w/in ~24hrs and respond ~48hrs
