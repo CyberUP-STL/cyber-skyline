@@ -1,0 +1,31 @@
+Labs
+
+Lectures
+- Log Formats
+    - Syslog
+- Logging Tools
+    - SIEMs / Security Suites
+        - Security Onion
+        - Splunk
+        - Elastic Stack (Kibana)
+    - Log Collectors
+        - Fluentd
+        - Fluentbit
+        - Logstash
+        - Kafka
+    - Log Generators
+        - Snort
+        - Suricata
+        - Bro (Zeek)
+    - Log Storage
+        - Elasticsearch
+        - Windows Event Viewer
+
+- Logging Sources
+    - Docker 
+    - Kubernetes 
+    - Apps
+    - Web Server
+    - Network Traffic
+
+Links
