@@ -15,6 +15,15 @@ Lectures
     - Darkside
     - SolarMarker
     - Emotet
+    - WannaCry
+    - Petya
+    - Stuxnet
+    - Covidlock
+    - Zeus
+    - Cryptolocker
+    - ILOVEYOU
+    - Storm Worm
+    - MyDoom
 
 Links
 - https://osint.link/
