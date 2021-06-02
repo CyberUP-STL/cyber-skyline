@@ -10,6 +10,11 @@ Lectures
 - Email Addresses
 - Usernames
 - Threat Intelligence
+- Malware/Exploit Research (Looking up & learning about)
+    - SolarWinds
+    - Darkside
+    - SolarMarker
+    - Emotet
 
 Links
 - https://osint.link/
