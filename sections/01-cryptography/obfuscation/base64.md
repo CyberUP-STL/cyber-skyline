@@ -20,7 +20,6 @@ The `=` is used to indicate padding if the input string length is not a multiple
 > Base64 `Q` `U` `J` `D`  
 
 ## Implement in Python
-### 
 Base64 Input: `U2FtcGxlIHRleHQ=`
 ```python
 a = raw_input("Enter encoded text:")
