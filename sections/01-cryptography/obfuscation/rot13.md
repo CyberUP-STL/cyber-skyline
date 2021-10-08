@@ -1,3 +1,4 @@
+# Rotation Cipher Encoding
 ## Overview
 A Caesar cipher (Also known as ROT13) is an ancient trick where you just move every letter forward three characters in the alphabet.  
 Here is an Example: 

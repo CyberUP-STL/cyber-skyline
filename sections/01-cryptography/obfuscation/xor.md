@@ -1,3 +1,4 @@
+# XOR Encoding
 ## Overview
 XOR undoes itself, so decryption is the same operation as encryption. You can use single bytes or multiple byte keys for XOR. If you feed in two bits and they are the same, then the output is `0`. If the bits are different, the output is `1`. XOR operates on one bit at a time. Python indicates XOR with the `^` operator.
 > `0 ^ 0 = 0`  

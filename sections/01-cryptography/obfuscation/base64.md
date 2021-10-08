@@ -1,3 +1,4 @@
+# Base64 Encoding
 ## Overview
 First lets cover encoding ASCII data as bytes and base64 encoding those bytes. 
 
